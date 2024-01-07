@@ -2,13 +2,13 @@
 
 使用 {SonarQube} 为团队和企业提供干净的代码
 
-[Sonar官网]: https://www.sonarsource.com/products/sonarqube/?gads_campaign=SQ-Hroi-Brand&amp;gads_ad_group=SonarQube&amp;gads_keyword=sonarqube&amp;cq_src=google_ads&amp;cq_cmp=19274189926&amp;cq_con=147504963074&amp;cq_term=sonarqube&amp;cq_med=&amp;cq_plac=&amp;cq_net=g&amp;cq_pos=&amp;cq_plt=gp&amp;gad_source=1&amp;gclid=Cj0KCQiAkeSsBhDUARIsAK3tiec8taKFblqwD43OJpcjlK7b1ViTYPeXL4kHB1PJjzNOvyAeKIS1K1YaAmnwEALw_wcB	"Sonar官网"
+[Sonar官网](https://www.sonarsource.com/products/sonarqube/?gads_campaign=SQ-Hroi-Brand&amp;gads_ad_group=SonarQube&amp;gads_keyword=sonarqube&amp;cq_src=google_ads&amp;cq_cmp=19274189926&amp;cq_con=147504963074&amp;cq_term=sonarqube&amp;cq_med=&amp;cq_plac=&amp;cq_net=g&amp;cq_pos=&amp;cq_plt=gp&amp;gad_source=1&amp;gclid=Cj0KCQiAkeSsBhDUARIsAK3tiec8taKFblqwD43OJpcjlK7b1ViTYPeXL4kHB1PJjzNOvyAeKIS1K1YaAmnwEALw_wcB)
 
-![](/Users/wangke/Developer/Java/alp/images/sonar1.jpg)
+![](./images/sonar1.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/sonar2.jpg)
+![](./images/sonar2.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/sonar3.jpg)
+![](./images/sonar3.jpg)
 
 
 
@@ -45,15 +45,15 @@ Git Flow 包括以下主要分支：
 - 修复分支 (hotfix/hotfix-name)：
 修复分支用于紧急修复在生产环境中发现的 bug。它从 master 分支分出，修复完成后合并回 master 和 develop 分支。
 
-![04 Hotfix branches](/Users/wangke/Developer/Java/alp/images/04 Hotfix branches.svg)
+![04 Hotfix branches](./images/04 Hotfix branches.svg)
 
-[Gitflow]: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow	"Gitflow"
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 
 
 ### Pull Request
 
-![](/Users/wangke/Developer/Java/alp/images/github.jpg)
+![](./images/github.jpg)
 
 - 通常我们接到一个新的需求时, 需要通过主干分支拉出一个新的本地分支进行开发
 - 任务完成才能提交`PR`
@@ -65,20 +65,20 @@ Git Flow 包括以下主要分支：
 
 #### PR流程
 
-![](/Users/wangke/Developer/Java/alp/images/pr1.jpg)
+![](./images/pr1.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr2.jpg)
+![](./images/pr2.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr3.jpg)
+![](./images/pr3.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr4.jpg)
+![](./images/pr4.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr5.jpg)
+![](./images/pr5.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr6.jpg)
+![](./images/pr6.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr7.jpg)
+![](./images/pr7.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr8.jpg)
+![](./images/pr8.jpg)
 
-![](/Users/wangke/Developer/Java/alp/images/pr9.jpg)
+![](./images/pr9.jpg)
